@@ -26,7 +26,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-232223?style=for-the-badge&logo=Instagram&logoColor)](https://instagram.com/nefedov_inst?utm_medium=copy_link)
 
-https://mail.yandex.ru/?uid=1004051834#inbox
+nefiodov.eu@yandex.ru
 
 
 
