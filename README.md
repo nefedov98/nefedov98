@@ -8,10 +8,10 @@
 
 ### Языки и инструменты:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-232223?style=for-the-badge&logo=JavaScript&logoColor)
-![HTML](https://img.shields.io/badge/-HTML-232223?style=for-the-badge&logo=HTML&logoColor)
-![CSS](https://img.shields.io/badge/-CSS-232223?style=for-the-badge&logo=CSS&logoColor)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 
 ### Способ связи:
